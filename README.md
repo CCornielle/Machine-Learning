@@ -2,7 +2,7 @@
 
 This GIT contains machine learning projects developed in MATLAB and Python.
 
-Some algorithms are:
+**Some algorithms are:**
 
 Bayes theorem.
 
